@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elxior
-- 👀 I’m interested in ... learning web dev and playing Magic the gathering
+- 👀 I’m interested in ... learning web dev, AI, Data, and playing Magic the gathering
 - 🌱 I’m currently learning ... Laravel, PHP, MySQL, Javascript
 - 💞️ I’m looking to collaborate on ... anything to grow my knowleage 
 - 📫 How to reach me ... elxior@gmail.com
